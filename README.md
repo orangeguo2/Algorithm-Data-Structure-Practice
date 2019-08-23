@@ -2,7 +2,7 @@
 
 This repository contains small interesting programs or practice code for algorithm & Data Structure
 
-Collaborate: Nancy(Python) & Christine(Java)
+Collaborate: Nancy(nancyyu17, Python) & Christine(orangeguo2, Java)
 
 Date: Aug. 22, 2019<br/>
 "Best Tour Path" by Christine<br/>
