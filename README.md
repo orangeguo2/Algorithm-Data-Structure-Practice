@@ -5,7 +5,10 @@ This repository contains small interesting programs or practice code for algorit
 Collaborate: Nancy(nancyyu17, Python) & Christine(orangeguo2, Java)
 
 ### Algorithm<br/>
-#### Backtracking
+#### Backtracking <br/>
 1. "Best Tour Path" by Christine<br/>
 Intro: find the best path which maximum the beauty value under a time limitation<br/>
+
+### Data Structure<br/>
+
 
