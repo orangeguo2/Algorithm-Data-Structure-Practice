@@ -1,0 +1,18 @@
+public class Celebrity extends Relations {
+	public int findCelebrity(int n){
+		if(n<0) return -1;
+		if(n==1) return 0;
+		int c=0;
+		for(int i=1;i<n;i++){
+	if(know(c,i)){
+c=i;
+}
+}
+
+for(int i=0;i<n;i++){
+	if(i!=c&&(know(c,i)||!know(i,c)))
+		return -1;
+}
+return c;
+}
+}
